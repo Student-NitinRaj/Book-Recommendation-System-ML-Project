@@ -1,11 +1,12 @@
-flask==3.1.2
-numpy==2.3.4
-pandas==2.3.3
-gunicorn
-sklearn==1.4.0
+flask==3.0.3
+numpy==1.26.4
+pandas==2.2.2
+gunicorn==21.2.0
+scikit-learn==1.4.2
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 Werkzeug==3.0.3
 blinker==1.9.0
 click==8.3.0
 python-dateutil==2.9.0.post0
+
